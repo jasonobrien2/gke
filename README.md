@@ -1,0 +1,2 @@
+# gke
+Standalone GKE cluster
